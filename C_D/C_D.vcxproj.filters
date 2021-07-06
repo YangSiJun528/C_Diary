@@ -25,7 +25,4 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
-  <ItemGroup>
-    <None Include="..\..\..\..\Desktop\웹사이트 따라 만들기\PrintJS\.gitignore" />
-  </ItemGroup>
 </Project>
